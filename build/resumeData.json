@@ -1,0 +1,445 @@
+{
+  "main": {
+    "name": "",
+    "occupation": "STUDENT of ECE",
+    "description": "",
+    "image": "NSSLOGO.png",
+    "bio": "NSS. All the youth volunteers who opt to serve the nation through the NSS led community service wear the NSS badge with pride and a sense of responsibility towards helping the needy. We, the students of KLEF NSS are a group of over (no of students) pledged to do the same. Follow our website for updates on the activities we do every week and support",
+    "contactmessage": "Get in touch with me to be a part of my future works!",
+    "registrationform":"https://google.com",
+    "email": "nssunit2y18@gmail.com", 
+    "phone": "+91 6304914469",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nss.klef",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/klef-nss-996705206/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/klefnss/",
+        "className": "fa fa-instagram"
+      }
+
+    ]
+  },
+  "Events":{
+    "Events":[
+      {
+        "frontImage":"https://raw.githubusercontent.com/GowravKrishnaBoyapati/resume/main/ThugOfWar.jpg",
+        "backImage":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg",
+        "href":"https://www.gowrav143.xyz"
+      },
+      {
+        "frontImage":"https://raw.githubusercontent.com/GowravKrishnaBoyapati/resume/main/ThugOfWar.jpg",
+        "backImage":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg"
+      },
+      {
+        "frontImage":"https://raw.githubusercontent.com/GowravKrishnaBoyapati/resume/main/ThugOfWar.jpg",
+        "backImage":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg"
+      },
+      {
+        "frontImage":"https://raw.githubusercontent.com/GowravKrishnaBoyapati/resume/main/ThugOfWar.jpg",
+        "backImage":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg"
+      },
+      {
+        "frontImage":"https://raw.githubusercontent.com/GowravKrishnaBoyapati/resume/main/ThugOfWar.jpg",
+        "backImage":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg"
+      },
+      {
+        "frontImage":"https://raw.githubusercontent.com/GowravKrishnaBoyapati/resume/main/ThugOfWar.jpg",
+        "backImage":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg"
+      },
+      {
+        "frontImage":"https://raw.githubusercontent.com/GowravKrishnaBoyapati/resume/main/ThugOfWar.jpg",
+        "backImage":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg"
+      },
+      {
+        "frontImage":"https://raw.githubusercontent.com/GowravKrishnaBoyapati/resume/main/ThugOfWar.jpg",
+        "backImage":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg"
+      }
+    ]
+  },
+  "CoreTeam":{
+    "CoreTeam":[
+      {
+        "unit":"1",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"BALA PRASANNA GOPAL VOLISETTY",
+        "role":"Co-Ordinate"
+      },
+      {
+        "unit":"1",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/sindhu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Sindhu Chowdary",
+        "role":"Co-coordinate"
+      },
+      {
+        "unit":"1",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/ana.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"B.Anantha Sai Murali Krishna",
+        "role":"Attendance"
+      },
+      {
+        "unit":"1",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/teja.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Talasila Venkata Teja",
+        "role":"Blood Bridge",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/bhanu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Bhanuprasad",
+        "role":"Blood Bridge",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/moni.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Monika Racharla",
+        "role":"Designing",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/waste.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"K.Vamsi Krishna",
+        "role":"Designing",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/Janu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Jahnavi katte",
+        "role":"Drafting",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/manideep.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Narahari Manideep",
+        "role":"Logistics",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/kira.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Kiranmai",
+        "role":"Logistics",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/abhi.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"G.s.s.abhiram",
+        "role":"Permissions",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/adhtr.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Aditya Reddy BH",
+        "role":"Photography",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/ghso.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Sudeep Ghosh",
+        "role":"Photography",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/nikhil.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Nikhilvarma",
+        "role":"Premissions",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/dolly.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Vyshnavi",
+        "role":"publicity",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/Srirja.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Srija.Pasupuleti",
+        "role":"publicity",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/hanvitha.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Peram Hanvitha",
+        "role":"publicity",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/chandu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Chandana Dudam",
+        "role":"Report",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/prathys.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Aitha Prathyusha",
+        "role":"Report",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/Jp.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"J P P Mani Kumar",
+        "role":"Technical",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/niki.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Nikhila",
+        "role":"Technical",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/avi.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Sunkari Bhargavi",
+        "role":"Treasury",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/venu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Karpuram Venu",
+        "role":"Treasury",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      }
+    ]
+  },
+  "CoreTeam0":{
+    "CoreTeam0":[
+      {
+        "unit":"1",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/demo1.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"BALA PRASANNA GOPAL VOLISETTY",
+        "role":"Co-Ordinate"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/sindhu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Sindhu Chowdary",
+        "role":"Co-coordinate"
+      },
+      {
+        "unit":"3",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/ana.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"B.Anantha Sai Murali Krishna",
+        "role":"Attendance"
+      },
+      {
+        "unit":"4",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/teja.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Talasila Venkata Teja",
+        "role":"Blood Bridge",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"5",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/bhanu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Bhanuprasad",
+        "role":"Blood Bridge",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"6",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/moni.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Monika Racharla",
+        "role":"Designing",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/waste.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"K.Vamsi Krishna",
+        "role":"Designing",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/Janu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Jahnavi katte",
+        "role":"Drafting",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/manideep.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Narahari Manideep",
+        "role":"Logistics",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/kira.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Kiranmai",
+        "role":"Logistics",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/abhi.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"G.s.s.abhiram",
+        "role":"Permissions",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/adhtr.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Aditya Reddy BH",
+        "role":"Photography",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/ghso.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Sudeep Ghosh",
+        "role":"Photography",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/nikhil.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Nikhilvarma",
+        "role":"Premissions",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/dolly.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Vyshnavi",
+        "role":"publicity",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/Srirja.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Srija.Pasupuleti",
+        "role":"publicity",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/hanvitha.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Peram Hanvitha",
+        "role":"publicity",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/chandu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Chandana Dudam",
+        "role":"Report",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/prathys.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Aitha Prathyusha",
+        "role":"Report",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/Jp.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"J P P Mani Kumar",
+        "role":"Technical",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/niki.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"M.Nikhila",
+        "role":"Technical",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/avi.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Sunkari Bhargavi",
+        "role":"Treasury",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      },
+      {
+        "unit":"2",
+        "header":"https://raw.githubusercontent.com/balaprasannagopal/coreteam/main/venu.jpg",
+        "avatar":"https://raw.githubusercontent.com/balaprasannagopal/nsswebsite/main/NSS%20LOGO.png",
+        "name":"Karpuram Venu",
+        "role":"Treasury",
+        "href":"https://www.linkedin.com/in/gowrav-krishna-chowdary-boyapati-21363619b/"
+      }
+    ]
+  }
+}
