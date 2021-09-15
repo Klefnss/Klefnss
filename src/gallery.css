@@ -1,0 +1,8 @@
+.galCont{
+    margin-top: 125px;
+}
+@media (max-width: 768px) {
+    .galCont{
+        margin-top: 50px;
+    }
+}
